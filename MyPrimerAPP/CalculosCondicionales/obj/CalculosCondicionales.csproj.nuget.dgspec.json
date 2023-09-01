@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\_Hugo\\source\\repos\\CoderHouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj": {}
+    "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\GitHub\\coderhouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj": {}
   },
   "projects": {
-    "C:\\Users\\_Hugo\\source\\repos\\CoderHouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj": {
+    "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\GitHub\\coderhouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\_Hugo\\source\\repos\\CoderHouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj",
+        "projectUniqueName": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\GitHub\\coderhouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj",
         "projectName": "CalculosCondicionales",
-        "projectPath": "C:\\Users\\_Hugo\\source\\repos\\CoderHouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj",
-        "packagesPath": "C:\\Users\\_Hugo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\_Hugo\\source\\repos\\CoderHouse47870\\MyPrimerAPP\\CalculosCondicionales\\obj\\",
+        "projectPath": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\GitHub\\coderhouse47870\\MyPrimerAPP\\CalculosCondicionales\\CalculosCondicionales.csproj",
+        "packagesPath": "C:\\Users\\christian.quiroga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\christian.quiroga\\OneDrive - WiseTech Global Pty Ltd\\Documents\\GitHub\\CoderHouse47870\\MyPrimerAPP\\CalculosCondicionales\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\_Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\christian.quiroga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -61,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
